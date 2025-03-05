@@ -1,0 +1,13 @@
+Month,Avg High Temp (°C),Avg Low Temp (°C),Avg Rainfall (mm),Delivery Impact Scale (1-5)
+January,29.1,11.0,1.23,1
+February,32.0,14.0,1.5,1
+March,35.0,18.0,5.0,2
+April,37.2,24.3,16.0,3
+May,37.2,24.3,40.0,3
+June,30.0,22.0,330.85,5
+July,27.0,21.0,330.0,5
+August,27.0,21.0,180.0,4
+September,28.0,20.0,160.0,4
+October,30.0,18.0,90.0,2
+November,29.0,14.0,10.0,1
+December,29.1,11.0,1.23,1
