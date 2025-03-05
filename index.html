@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pune Dark Store Network</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <style>
+        #map { height: 600px; width: 100%; }
+    </style>
+</head>
+<body>
+    <h2>Pune Dark Store Network Projection</h2>
+    <div id="map"></div>
+
+    <script>
+        var map = L.map('map').setView([18.5204, 73.8567], 12); // Pune center
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a>'
+        }).addTo(map);
+
+        var darkStores = [
+            { name: "Hinjewadi", lat: 18.5901, lng: 73.7389, area: "Hinjewadi, Wakad, Tathawade" },
+            { name: "Baner", lat: 18.5636, lng: 73.7750, area: "Baner, Balewadi, Aundh" },
+            { name: "Viman Nagar", lat: 18.5669, lng: 73.9143, area: "Kalyani Nagar, Lohegaon, Airport Area" },
+            { name: "Kothrud", lat: 18.5074, lng: 73.8077, area: "Erandwane, Karve Nagar, Bavdhan" },
+            { name: "Magarpatta", lat: 18.5129, lng: 73.9273, area: "Hadapsar, Amanora, Kharadi" },
+            { name: "Shivajinagar", lat: 18.5308, lng: 73.8471, area: "FC Road, JM Road, Model Colony" },
+            { name: "Swargate", lat: 18.5018, lng: 73.8645, area: "Pune Camp, Market Yard, Bibwewadi" },
+            { name: "Kharadi", lat: 18.5511, lng: 73.9355, area: "EON IT Park, Chandan Nagar, Wagholi" },
+            { name: "Hadapsar", lat: 18.4966, lng: 73.9252, area: "Magarpatta Extension, Manjari, Mundhwa" },
+            { name: "Wagholi", lat: 18.5793, lng: 73.9783, area: "Lohegaon, Ranjangaon, Chandan Nagar" },
+            { name: "Pimple Saudagar", lat: 18.5988, lng: 73.7877, area: "Pimple Gurav, Rahatani, Sangvi" },
+            { name: "Aundh", lat: 18.5635, lng: 73.8077, area: "Aundh, Baner, Balewadi" },
+            { name: "Bavdhan", lat: 18.5120, lng: 73.7722, area: "Bavdhan, Chandni Chowk, NDA Road" },
+            { name: "Katraj", lat: 18.4482, lng: 73.8689, area: "Katraj, Ambegaon, Dhankawadi" },
+            { name: "Hadapsar Industrial Area", lat: 18.5071, lng: 73.9443, area: "SP Infocity, Phursungi, Saswad Road" }
+        ];
+
+        for (var i = 16; i <= 50; i++) {
+            darkStores.push({
+                name: "Store " + i,
+                lat: 18.5 + (Math.random() * 0.2),
+                lng: 73.8 + (Math.random() * 0.2),
+                area: "Random Area " + i
+            });
+        }
+
+        darkStores.forEach(store => {
+            L.marker([store.lat, store.lng]).addTo(map)
+                .bindPopup(`<b>${store.name} Dark Store</b><br>Coverage: ${store.area}`);
+        });
+    </script>
+</body>
+</html>
