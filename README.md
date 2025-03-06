@@ -1,8 +1,6 @@
 # **🛒 Dark Store Feasibility Analysis 📊**  
 **An Interactive AI-Powered Tool for Strategic Dark Store Placement**  
 
-![Project Preview](https://your-image-url-here) *(Add a relevant image or GIF showcasing your app in action!)*  
-
 ---
 
 ## 🚀 **Project Overview**  
@@ -68,8 +66,6 @@ streamlit run MainScript.py
 ## 🎯 **Key Features & Screenshots**  
 
 ### **📊 Data Insights & Visualization**  
-![Chart Example](https://your-image-url) *(Add a relevant chart screenshot!)*  
-
 - **Population & order volume trends per neighborhood**  
 - **Bar charts, scatter plots & interactive graphs**  
 
