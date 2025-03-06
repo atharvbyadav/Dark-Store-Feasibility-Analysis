@@ -52,8 +52,7 @@ This project provides a **data-driven solution** to **analyze, predict, and reco
 
 ### **🔹 Clone the Repository**  
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis.git
 ```
 
 ### **🔹 Run the Streamlit App**  
