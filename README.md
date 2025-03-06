@@ -82,8 +82,6 @@ streamlit run MainScript.py
 - **Improves decision-making for dark store expansion**  
 
 ### **🗺️ Interactive Dark Store Map**  
-![Map Example](https://your-image-url) *(Add a screenshot of your map!)*  
-
 - **View existing & recommended store locations**  
 - **Zoom in for neighborhood-level analysis**  
 
