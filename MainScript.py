@@ -11,7 +11,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 # Load data
 def load_data():
-    df = pd.read_csv("Merged_Pune_Dark_Store_Data.csv")
+    df = pd.read_csv("data/processed/Merged_Pune_Dark_Store_Data.csv")
     return df
 
 df = load_data()
