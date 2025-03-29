@@ -9,6 +9,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
+# Streamlit page config
+st.set_page_config(page_title="Dark Store Analysis")
+
 # Load data
 def load_data():
     df = pd.read_csv("data/processed/Merged_Pune_Dark_Store_Data.csv")
