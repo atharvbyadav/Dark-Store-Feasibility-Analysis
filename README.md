@@ -62,22 +62,23 @@ streamlit run MainScript.py
 ---
 
 ## 📂 **Project Structure**  
+Only for this repo. You can change data as per your need and upload your own Data Sets for Analysis.
 
 ```
 📦 Dark-Store-Feasibility  
 │-- 📂 data  
 │   │-- 📂 processed
-│	│	│-- Merged_Pune_Dark_Store_Data.csv
-│	│	│--	Pune_Climate_Delivery_Impact.csv
-│	│	│--	Pune_Neighborhood_Population_Analysis.csv
-│	│	│--	Pune_Online_Activity_Prediction.csv
-│	│	│--	pune_dark_stores.csv
-│	│	│-- 
+│	 │	  │-- Merged_Pune_Dark_Store_Data.csv
+│	 │	  │--	Pune_Climate_Delivery_Impact.csv
+│	 │	  │--	Pune_Neighborhood_Population_Analysis.csv
+│	 │	  │--	Pune_Online_Activity_Prediction.csv
+│	 │	  │--	pune_dark_stores.csv
+│	 │	   
 │   │-- 📂 raw
-│		│-- Pune_Raw_Climate_Data.csv
-│		│--	Pune_Raw_Online_Activity_Data.csv
-│		│--	Pune_Raw_Population_Data.csv
-│		│--	pune-ward-wise-census-2011.csv  		 
+│       │-- Pune_Raw_Climate_Data.csv
+│       │--	Pune_Raw_Online_Activity_Data.csv
+│		  │--	Pune_Raw_Population_Data.csv
+│		  │--	pune-ward-wise-census-2011.csv  		 
 │
 │-- 📂 notebooks  
 │   │-- Clean_Climate.ipynb
@@ -92,7 +93,6 @@ streamlit run MainScript.py
 │-- README.md
 │-- index.html
 │-- requirements.txt  
-
 ```
 ---
 
