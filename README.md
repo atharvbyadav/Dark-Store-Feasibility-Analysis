@@ -59,10 +59,44 @@ git clone https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis.git
 ```bash
 streamlit run MainScript.py
 ```
-
 ---
 
-## 🎯 **Key Features & Screenshots**  
+## 📂 **Project Structure**  
+
+```
+📦 Dark-Store-Feasibility  
+│-- 📂 data  
+│   │-- 📂 processed
+│	│	│-- Merged_Pune_Dark_Store_Data.csv
+│	│	│--	Pune_Climate_Delivery_Impact.csv
+│	│	│--	Pune_Neighborhood_Population_Analysis.csv
+│	│	│--	Pune_Online_Activity_Prediction.csv
+│	│	│--	pune_dark_stores.csv
+│	│	│-- 
+│   │-- 📂 raw
+│		│-- Pune_Raw_Climate_Data.csv
+│		│--	Pune_Raw_Online_Activity_Data.csv
+│		│--	Pune_Raw_Population_Data.csv
+│		│--	pune-ward-wise-census-2011.csv  		 
+│
+│-- 📂 notebooks  
+│   │-- Clean_Climate.ipynb
+│   │-- DataCleaner.ipynb  
+│  
+│-- 📂 app  
+│   │-- app.py  # Streamlit app  
+│   │-- model.py  # Machine Learning model  
+│  
+│-- LICENSE
+│-- MainScript.py
+│-- README.md
+│-- index.html
+│-- requirements.txt  
+
+```
+---
+
+## 🎯 **Key Features **  
 
 ### **📊 Data Insights & Visualization**  
 - **Population & order volume trends per neighborhood**  
