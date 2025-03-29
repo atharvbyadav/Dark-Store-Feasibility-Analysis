@@ -17,7 +17,7 @@ def load_data():
 df = load_data()
 
 # Streamlit App
-st.title("Dark Store Feasibility Analysis")
+st.title("🛒Dark Store Feasibility Analysis")
 st.markdown("### An interactive tool to identify optimal locations for Dark Stores.")
 
 # Display raw data
