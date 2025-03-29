@@ -68,21 +68,21 @@ Only for this repo. You can change data as per your need and upload your own Dat
 📦 Dark-Store-Feasibility  
 │-- 📂 data  
 │   │-- 📂 processed
-│	 │	  │-- Merged_Pune_Dark_Store_Data.csv
-│	 │	  │--	Pune_Climate_Delivery_Impact.csv
-│	 │	  │--	Pune_Neighborhood_Population_Analysis.csv
-│	 │	  │--	Pune_Online_Activity_Prediction.csv
-│	 │	  │--	pune_dark_stores.csv
-│	 │	   
+│   │   │-- Merged_Pune_Dark_Store_Data.csv
+│   │   │-- Pune_Climate_Delivery_Impact.csv
+│   │   │-- Pune_Neighborhood_Population_Analysis.csv
+│   │   │-- Pune_Online_Activity_Prediction.csv
+│   │   │-- pune_dark_stores.csv
+│   │  
 │   │-- 📂 raw
-│       │-- Pune_Raw_Climate_Data.csv
-│       │--	Pune_Raw_Online_Activity_Data.csv
-│		  │--	Pune_Raw_Population_Data.csv
-│		  │--	pune-ward-wise-census-2011.csv  		 
-│
+│   │   │-- Pune_Raw_Climate_Data.csv
+│   │   │-- Pune_Raw_Online_Activity_Data.csv
+│   │   │-- Pune_Raw_Population_Data.csv
+│   │   │-- pune-ward-wise-census-2011.csv  
+│  
 │-- 📂 notebooks  
-│   │-- Clean_Climate.ipynb
-│   │-- DataCleaner.ipynb  
+│   │-- Clean_Climate.ipynb  # Cleans climate data  
+│   │-- DataCleaner.ipynb  # Processes raw data  
 │  
 │-- 📂 app  
 │   │-- app.py  # Streamlit app  
@@ -91,9 +91,10 @@ Only for this repo. You can change data as per your need and upload your own Dat
 │-- LICENSE
 │-- MainScript.py
 │-- README.md
-│-- index.html
-│-- requirements.txt  
+│-- index.html  # GitHub Pages support  
+│-- requirements.txt
 ```
+
 ---
 
 ## 🎯 **Key Features **  
