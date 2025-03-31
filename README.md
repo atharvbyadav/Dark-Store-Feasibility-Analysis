@@ -8,6 +8,8 @@ Dark Stores are **closed fulfillment centers** designed exclusively for **online
 
 This project provides a **data-driven solution** to **analyze, predict, and recommend optimal locations** for Dark Stores using **Machine Learning, Data Visualization, and Interactive Maps**.  
 
+🚀 **Live Demo**: [Dark Store Analysis](https://dark-store.streamlit.app/)
+
 🔹 **Key Features:**  
 ✅ **Predict Demand for Different Neighborhoods**  
 ✅ **Recommend Top 6 Locations to Open Dark Stores**  
