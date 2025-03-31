@@ -10,6 +10,8 @@ This project provides a **data-driven solution** to **analyze, predict, and reco
 
 🚀 **Live Demo**: [Dark Store Analysis](https://dark-store.streamlit.app/)
 
+🔗 **GitHub Repository**: [Dark Store Feasibility Analysis](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis)
+
 🔹 **Key Features:**  
 ✅ **Predict Demand for Different Neighborhoods**  
 ✅ **Recommend Top 6 Locations to Open Dark Stores**  
