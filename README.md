@@ -159,9 +159,9 @@ Feel free to **fork** this repo and contribute!
 ## 📬 Contact
 
 **Atharv Yadav**
-📧 Email: [uuwr5t1s@duck.com](mailto:uuwr5t1s@duck.com)
-🔗 GitHub: [@atharvbyadav](https://github.com/atharvbyadav)
-🌐 Website: [atharvbyadav.github.io](https://atharvbyadav.github.io)
+- 📧 Email: [uuwr5t1s@duck.com](mailto:uuwr5t1s@duck.com)
+- 🔗 GitHub: [@atharvbyadav](https://github.com/atharvbyadav)
+- 🌐 Website: [atharvbyadav.github.io](https://atharvbyadav.github.io)
 
 ---
 
