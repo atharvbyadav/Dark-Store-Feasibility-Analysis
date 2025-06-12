@@ -153,15 +153,9 @@ Only for this repo. You can change data as per your need and upload your own Dat
 
 ---
 
-## 🛠 **Contributions Welcome!**  
-Feel free to **fork** this repo and contribute!  
-
-## 📬 Contact
-
-**Atharv Yadav**
-- 📧 Email: [uuwr5t1s@duck.com](mailto:uuwr5t1s@duck.com)
-- 🔗 GitHub: [@atharvbyadav](https://github.com/atharvbyadav)
-- 🌐 Website: [atharvbyadav.github.io](https://atharvbyadav.github.io)
+## 🤝 Contribution  
+Contributions are welcome!  
+Feel free to fork this repo, suggest improvements, or submit a pull request.
 
 ---
 
