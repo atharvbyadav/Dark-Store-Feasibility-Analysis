@@ -6,6 +6,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Open Source](https://img.shields.io/badge/Open--Source-Contributions%20Welcome-brightgreen.svg)](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis)
 [![Project Status](https://img.shields.io/badge/Status-Hackathon%20Prototype-blueviolet)](https://github.com/atharvbyadav)
+
 [![Made with Love](https://img.shields.io/badge/Made%20with-%F0%9F%96%A4-red)](https://github.com/atharvbyadav)
 [![Deployed with Streamlit](https://img.shields.io/badge/Deployed-Streamlit%20Cloud-ff4b4b?logo=streamlit)](https://dark-store.streamlit.app/)
 [![Last Commit](https://img.shields.io/github/last-commit/atharvbyadav/Dark-Store-Feasibility-Analysis?color=blue)](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis/commits/main)
