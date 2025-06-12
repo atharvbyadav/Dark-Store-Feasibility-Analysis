@@ -1,16 +1,28 @@
 # **🛒 Dark Store Feasibility Analysis 📊**  
 **An Interactive AI-Powered Tool for Strategic Dark Store Placement**  
 
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-orange?logo=streamlit)](https://streamlit.io/)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Open Source](https://img.shields.io/badge/Open--Source-Contributions%20Welcome-brightgreen.svg)](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis)
+[![Project Status](https://img.shields.io/badge/Status-Hackathon%20Prototype-blueviolet)](https://github.com/atharvbyadav)
+[![Made with Love](https://img.shields.io/badge/Made%20with-%F0%9F%96%A4-red)](https://github.com/atharvbyadav)
+[![Deployed with Streamlit](https://img.shields.io/badge/Deployed-Streamlit%20Cloud-ff4b4b?logo=streamlit)](https://dark-store.streamlit.app/)
+[![Last Commit](https://img.shields.io/github/last-commit/atharvbyadav/Dark-Store-Feasibility-Analysis?color=blue)](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis/commits/main)
+
+---
+
+## 🚀 Live Demo  
+🔗 **Try it out now**: [dark-store.streamlit.app](https://dark-store.streamlit.app/)
+
+🔗 **GitHub Repository**: [Dark Store Feasibility Analysis](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis)
+
 ---
 
 ## 🚀 **Project Overview**  
 Dark Stores are **closed fulfillment centers** designed exclusively for **online orders**, enabling faster deliveries and efficient inventory management. **Where should these stores be located to maximize efficiency and revenue?**  
 
 This project provides a **data-driven solution** to **analyze, predict, and recommend optimal locations** for Dark Stores using **Machine Learning, Data Visualization, and Interactive Maps**.  
-
-🚀 **Live Demo**: [Dark Store Analysis](https://dark-store.streamlit.app/)
-
-🔗 **GitHub Repository**: [Dark Store Feasibility Analysis](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis)
 
 🔹 **Key Features:**  
 ✅ **Predict Demand for Different Neighborhoods**  
@@ -140,13 +152,21 @@ Only for this repo. You can change data as per your need and upload your own Dat
 
 ---
 
-🛠 **Contributions Welcome!**  
+## 🛠 **Contributions Welcome!**  
 Feel free to **fork** this repo and contribute!  
+
+## 📬 Contact
+
+**Atharv Yadav**
+📧 Email: [uuwr5t1s@duck.com](mailto:uuwr5t1s@duck.com)
+🔗 GitHub: [@atharvbyadav](https://github.com/atharvbyadav)
+🌐 Website: [atharvbyadav.github.io](https://atharvbyadav.github.io)
 
 ---
 
 ## 📜 **License**  
 This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.  
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 
