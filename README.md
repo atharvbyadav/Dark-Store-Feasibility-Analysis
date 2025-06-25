@@ -23,7 +23,7 @@
 ## 🚀 **Project Overview**  
 Dark Stores are **closed fulfillment centers** designed exclusively for **online orders**, enabling faster deliveries and efficient inventory management. **Where should these stores be located to maximize efficiency and revenue?**  
 
-This project provides a **data-driven solution** to **analyze, predict, and recommend optimal locations** for Dark Stores using **Machine Learning, Data Visualization, and Interactive Maps**.  
+This project provides a **data-driven solution** to **analyze, predict and recommend optimal locations** for Dark Stores using **Machine Learning, Data Visualization and Interactive Maps**.  
 
 🔹 **Key Features:**  
 ✅ **Predict Demand for Different Neighborhoods**  
@@ -40,7 +40,7 @@ This project provides a **data-driven solution** to **analyze, predict, and reco
    - The **cleaned, processed dataset** is used for predictions.  
 
 2️⃣ **Data Analysis & Visualization**  
-   - Population growth, order volume trends, and demand spikes analyzed.  
+   - Population growth, order volume trends and demand spikes analyzed.  
    - Graphs & charts provide insights into neighborhood potential.  
 
 3️⃣ **Machine Learning Model**  
@@ -48,7 +48,7 @@ This project provides a **data-driven solution** to **analyze, predict, and reco
    - Evaluated with **Mean Absolute Error (MAE) & RMSE** for accuracy.  
 
 4️⃣ **Streamlit Web App**  
-   - Users can **interact with data, view recommendations, and explore maps**.  
+   - Users can **interact with data, view recommendations and explore maps**.  
 
 ---
 
@@ -155,12 +155,12 @@ Only for this repo. You can change data as per your need and upload your own Dat
 
 ## 🤝 Contribution  
 Contributions are welcome!  
-Feel free to fork this repo, suggest improvements, or submit a pull request.
+Feel free to fork this repo, suggest improvements or submit a pull request.
 
 ---
 
 ## 📜 **License**  
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute it.  
+This project is licensed under the **MIT License** – feel free to use, modify and distribute it.  
 See the [LICENSE](LICENSE) file for full details.
 
 ---
